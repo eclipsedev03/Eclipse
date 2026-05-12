@@ -4,7 +4,7 @@ local window = lib:CreateWindow({
     Title = "Eclipse Hub",
     Subtitle = "Blox Fruits",
     Theme = "Blue",
-    Icon = "rbxassetid://107651537558708",
+    Icon = "rbxassetid://94918814120008",
     Size = Vector2.new(625, 329),
     MinSize = Vector2.new(380, 250),
     MaxSize = Vector2.new(900, 650),
@@ -17,7 +17,7 @@ local window = lib:CreateWindow({
         Shape = "Circle",
         Color = "Black",
         Size = 70,
-        Icon = "rbxassetid://107651537558708",
+        Icon = "rbxassetid://94918814120008",
     },
     Acrylic = {
         Enabled = false,
